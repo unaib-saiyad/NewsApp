@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Nearly 100 Croatian soccer fans face murder, gang-related charges in Greece after deadly violence | CBC Sports",
+            "description": "Nearly 100 Croatian soccer fans appeared in an Athens court Wednesday to face criminal charges that include murder and membership of a criminal organization over their alleged involvement in deadly fan violence.",
+            "url": "http://www.cbc.ca/sports/soccer/greece-fan-death-croatian-murder-charges-1.6931949",
+            "urlToImage": "https://i.cbc.ca/1.6931963.1691616178!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/greek-evidences-soccer-09082023.jpg",
+            "publishedAt": "2023-08-10T06:07:23.5765797Z",
+            "content": "Nearly 100 Croatian soccer fans appeared in an Athens court Wednesday to face criminal charges that include murder and membership of a criminal organization over their alleged involvement in deadly f… [+3911 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Carney",
+            "title": "Breitbart Business Digest: Penn Bets on Disney’s ESPN While Portnoy Walks Away with All His Chips",
+            "description": "Barstool Sports co-founder Dave Portnoy announced on Tuesday evening that he had bought back Barstool from Penn Entertainment.",
+            "url": "http://www.breitbart.com/economy/2023/08/09/breitbart-business-digest-penn-bets-on-disneys-espn-while-portnoy-walks-away-with-all-his-chips/",
+            "urlToImage": "https://media.breitbart.com/media/2023/08/dave-portnoy-disney-espn-getty-640x335.jpg",
+            "publishedAt": "2023-08-09T20:52:35Z",
+            "content": "El Presidente Has Control of His Stool Again\r\nBarstool Sports co-founder Dave Portnoy announced on Tuesday evening that he had bought back Barstool from Penn Entertainment, the casino operator and on… [+5940 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Rodriguez, Margaret Fleming, Lucia Moses, James Faris",
+            "title": "ESPN sports-betting deal sets off industry chatter about future spinoff, competition, and more",
+            "description": "Industry insiders say the deal could signal a potential ESPN spinoff, disrupt competition between sportsbooks, and outperform Fox Bet's failure.",
+            "url": "http://www.businessinsider.com/espn-sports-betting-deal-industry-chatter-future-spinoff-competition-2023-8",
+            "urlToImage": "https://i.insider.com/63e5062c96242f0019e81f7d?width=1200&format=jpeg",
+            "publishedAt": "2023-08-09T20:47:50Z",
+            "content": "Gambling industry insiders thought Disney CEO Bob Iger might make quick work of setting a sports-betting strategy\r\n when he took back the reins of the ESPN owner late last year. They were proven righ… [+10167 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider-uk",
+                "name": "Business Insider (UK)"
+            },
+            "author": "Ashley Rodriguez, Margaret Fleming, Lucia Moses, James Faris",
+            "title": "ESPN sports-betting deal sets off industry chatter about future spinoff, competition, and more",
+            "description": "Industry insiders say the deal could signal a potential ESPN spinoff, disrupt competition between sportsbooks, and outperform Fox Bet's failure.",
+            "url": "http://uk.businessinsider.com/espn-sports-betting-deal-industry-chatter-future-spinoff-competition-2023-8",
+            "urlToImage": "https://i.insider.com/63e5062c96242f0019e81f7d?width=1200&format=jpeg",
+            "publishedAt": "2023-08-09T20:47:50Z",
+            "content": "Gambling industry insiders thought Disney CEO Bob Iger might make quick work of setting a sports-betting strategy\r\n when he took back the reins of the ESPN owner late last year. They were proven righ… [+10167 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KEN RITTER Associated Press",
+            "title": "Ex-Las Vegas Raider Henry Ruggs sentenced to 3-plus years in prison for fatal DUI crash in Nevada",
+            "description": "Former Las Vegas Raiders player Henry Ruggs has been sentenced to at least three years in a Nevada prison for killing a woman in a fiery crash while driving his sports car drunk at speeds up to 156 mph on a city street nearly two years ago",
+            "url": "https://abcnews.go.com/Sports/wireStory/las-vegas-raider-henry-ruggs-sentenced-3-years-102138971",
+            "urlToImage": "https://s.abcnews.com/images/US/wirestory_83f2ae13b0b52427900745b59637b058_12x5_992.jpg",
+            "publishedAt": "2023-08-09T17:43:42Z",
+            "content": "LAS VEGAS -- Former Las Vegas Raiders player Henry Ruggs was sentenced Wednesday to at least three years in a Nevada prison for killing a woman in a fiery crash while driving his sports car drunk at … [+4131 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Ranking the 10 best NFL RBs for 2023: Christian McCaffrey leads list of standouts",
+            "description": "Who are the best RBs in the NFL? FOX Sports' NFL writers ranked them and wrote about what makes them stand out.",
+            "url": "http://www.foxsports.com/stories/nfl/ranking-the-10-best-nfl-rbs-for-2023",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.08.23_FOX_NFL-RB-Rankings_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-09T14:24:03Z",
+            "content": "The running back position has changed a great deal over the past few decades.\r\nThere were NFL teams that built their identities around one workhorse back running into the middle of an offensive line … [+11893 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " Rooks x Pulisic Interview ️",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/457604-rooks-x-pulisic-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-08-01T17:52:19.0557986Z",
+            "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "Cedric Mullins Interview ⚾️",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/457122-betts-x-mullins-full-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-08-01T17:52:17.8373521Z",
+            "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16511524.1.16511524",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2019-08-14T09:09:42Z",
+            "content": "10. august2023kl.08:27Markus Hoelgaard skal sykle for Uno-X i 2024.\r\nDet opplyste han selv til TV 2 torsdag morgen, noe som igjen ble bekreftet av laget noen minutter senere. Hoelgaard har tidligere … [+1210 chars]"
+        }
+    ]
+}
